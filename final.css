@@ -338,11 +338,11 @@ padding: 20px;
 width: 700px;
 height: 700px;
 border-style:solid;
-border-color:rgb(12, 7, 7);
+border-color:black;
 margin-top: 10px;
 margin-left: 100px;
 border-width:1px;
-background:rgb(12,7,7);
+background:black;
 position: relative;
 text-align: left;
 }
