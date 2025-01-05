@@ -4,7 +4,7 @@
     font-family: sans-serif;
 }
 .banner{
-    background: linear-gradient(-45deg, rgb(10, 9, 9), rgb(5, 2, 2), rgba(5, 5, 22, 0.404), rgb(26, 6, 6)); 
+    background:linear-gradient(-45deg, rgb(10, 10, 10), rgb(5, 2, 2),rgba(5, 5, 22, 0.404), rgb(15, 3, 3)); 
     background-size: 400% 400%;
     width: 100%;
     height: 100%;
@@ -427,8 +427,9 @@ margin-left: 50px;
   color: white;
   -webkit-text-fill-color: transparent;
 }
+
 #grad3{
-  background: rgb(12, 7, 7); 
+  background: black; 
   background-size: 400% 400%;
   width: 100%;
   height: 200vh;
